@@ -16,15 +16,3 @@ weeks= {
  
 console.log(isWeekend());
 
-
-// const weekendOrWeekday = (inputDate) => {
-//     const day = inputDate.getDay();
-//     return weekendOrWeekday.labels[day] || 
-//            weekendOrWeekday.labels['default'];
-//   };
-//   weekendOrWeekday.labels = { 
-//     0: 'weekend', 
-//     6: 'weekend', 
-//     default: 'weekday' 
-//   };
-//   console.log(weekendOrWeekday(new Date()));
